@@ -40,6 +40,7 @@ figcaption {
     background-color: rgb(2, 160, 2);
     border-color: darkgreen;
     height: auto;
+    margin: auto;
 }
 
 .right_float_content {
@@ -48,6 +49,7 @@ figcaption {
     background-color: rgb(2, 160, 2);
     border-color: darkgreen;
     height: auto;
+    margin: auto;
 }
 
 div {
