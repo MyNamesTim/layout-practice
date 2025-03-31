@@ -39,8 +39,9 @@ figcaption {
     float: left;
     background-color: rgb(2, 160, 2);
     border-color: darkgreen;
+    width: 72.5px;
+    padding: 1em;
     height: auto;
-    margin: auto;
 }
 
 .right_float_content {
