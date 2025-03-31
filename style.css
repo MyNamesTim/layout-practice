@@ -9,7 +9,7 @@
 }
 
 .space {
-    height: 35px;
+    height: auto;
 }
 
 .main_description {
@@ -39,7 +39,7 @@ figcaption {
     float: left;
     background-color: rgb(2, 160, 2);
     border-color: darkgreen;
-    height: 500px;
+    height: auto;
 }
 
 .right_float_content {
@@ -47,7 +47,7 @@ figcaption {
     width: 22.5%;
     background-color: rgb(2, 160, 2);
     border-color: darkgreen;
-    height: 500px;
+    height: auto;
 }
 
 div {
